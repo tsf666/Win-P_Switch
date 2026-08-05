@@ -1,0 +1,15 @@
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Release\net8.0-windows\win-x64\Win+P Switch.exe
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Release\net8.0-windows\win-x64\Win+P Switch.deps.json
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Release\net8.0-windows\win-x64\Win+P Switch.runtimeconfig.json
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Release\net8.0-windows\win-x64\Win+P Switch.dll
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Release\net8.0-windows\win-x64\Win+P Switch.pdb
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Release\net8.0-windows\win-x64\Win+P Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Release\net8.0-windows\win-x64\Win+P Switch.AssemblyInfoInputs.cache
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Release\net8.0-windows\win-x64\Win+P Switch.AssemblyInfo.cs
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Release\net8.0-windows\win-x64\Win+P Switch.csproj.CoreCompileInputs.cache
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Release\net8.0-windows\win-x64\Win+P Switch.sourcelink.json
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Release\net8.0-windows\win-x64\Win+P Switch.dll
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Release\net8.0-windows\win-x64\refint\Win+P Switch.dll
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Release\net8.0-windows\win-x64\Win+P Switch.pdb
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Release\net8.0-windows\win-x64\Win+P Switch.genruntimeconfig.cache
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Release\net8.0-windows\win-x64\ref\Win+P Switch.dll

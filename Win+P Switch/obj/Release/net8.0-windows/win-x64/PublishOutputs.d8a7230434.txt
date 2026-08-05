@@ -1,0 +1,2 @@
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Release\net8.0-windows\win-x64\publish\Win+P Switch.pdb
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Release\net8.0-windows\win-x64\publish\Win+P Switch.exe
