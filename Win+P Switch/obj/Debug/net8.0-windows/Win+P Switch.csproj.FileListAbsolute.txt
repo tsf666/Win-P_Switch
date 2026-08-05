@@ -1,0 +1,14 @@
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Debug\net8.0-windows\Win+P Switch.exe
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Debug\net8.0-windows\Win+P Switch.deps.json
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Debug\net8.0-windows\Win+P Switch.runtimeconfig.json
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Debug\net8.0-windows\Win+P Switch.dll
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\bin\Debug\net8.0-windows\Win+P Switch.pdb
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Debug\net8.0-windows\Win+P Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Debug\net8.0-windows\Win+P Switch.AssemblyInfoInputs.cache
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Debug\net8.0-windows\Win+P Switch.AssemblyInfo.cs
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Debug\net8.0-windows\Win+P Switch.csproj.CoreCompileInputs.cache
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Debug\net8.0-windows\Win+P Switch.dll
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Debug\net8.0-windows\refint\Win+P Switch.dll
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Debug\net8.0-windows\Win+P Switch.pdb
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Debug\net8.0-windows\Win+P Switch.genruntimeconfig.cache
+D:\0-English-path\Bat\Win+P Switch\Win+P Switch\Win+P Switch\obj\Debug\net8.0-windows\ref\Win+P Switch.dll
